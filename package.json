@@ -2,7 +2,7 @@
   "name": "malte",
   "displayName": "Malte Dark Theme",
   "description": "A dark theme named after my cat.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "publisher": "samkaj",
   "engines": {
     "vscode": "^1.73.0"
@@ -14,6 +14,8 @@
   "categories": [
     "Themes"
   ],
+  "icon": "./static/icon.png",
+  "galleryBanner": {"color": "#101010", "theme": "dark"},
   "contributes": {
     "themes": [
       {
