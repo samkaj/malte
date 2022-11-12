@@ -1,0 +1,21 @@
+{
+  "name": "malte",
+  "displayName": "Malte Dark Theme",
+  "description": "A dark theme named after my cat.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Malte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/malte-color-theme.json"
+      }
+    ]
+  }
+}
