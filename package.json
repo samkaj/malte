@@ -3,6 +3,7 @@
   "displayName": "Malte Dark Theme",
   "description": "A dark theme named after my cat.",
   "version": "0.0.1",
+  "publisher": "samkaj",
   "engines": {
     "vscode": "^1.73.0"
   },
